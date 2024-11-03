@@ -1,5 +1,5 @@
 # Moving Snowman 
-This program, developed using C++, creates an interactive 3D scene featuring a charming snowman constructed from cubes and spheres, complemented by vibrant geometric shapes like triangles and squares. Users can manipulate the scene through keyboard inputs, and the snowman exhibits smooth, automatic movement back and forth.  
+This program, developed using C++, creates an interactive 3D scene featuring a charming snowman constructed from cubes and spheres, complemented by vibrant geometric shapes like triangles and squares. Users can manipulate the scene through keyboard inputs, and the snowman exhibits smooth, automatic movement back and forth.   
 
 
 # Upon running the program, users will see:
